@@ -7,8 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=mariocgo&label=Profile%20views&color=0e75b6&style=flat" alt="mariocgo"/>
 </p>
 
-<iframe src="https://open.spotify.com/embed/playlist/27ZIyucIdU5kIQzQhx3iKy?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
