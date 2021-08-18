@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=mariocgo&label=Profile%20views&color=0e75b6&style=flat" alt="mariocgo"/>
 </p>
 
-![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/nT3JrwfKcm5B1Aahmcr1sLZkyZ-_nP-85L94faRlGldfvu8wrSNhUb1fGdyvW-ShAU8cD5MKjBrTHdHPP9e0vsRUKHNyOpa2DkQtqluhWF2nTHKXRgXqQ0eNQbqjqlmV_NnI0ZzxdYYO9IBxtuYQT3NbmNw-lPJQysqoMJxgbchWvzv-kB6rk0SZj3_mR__cqJC1LxL-sQ9frB6jqvobEF13_4nGXVrL5lJEz7doKnLj1WW9tD8DuOYzW8TccGRCDuM4OsTDaNExwQhLyTrFGK5lYLtcsDjWkazsaw8AwD4kR3QTuuu1Oz0ol7gazilyTw4nGn4j8P1UQRnwXk9Cn_l74nDZUxgmYFeSWY8Jb1I16GWGAMbOvoFr4estWtyKDtQmkjR3YVRM0VpkyHYJjBfmevuI7WO_JK8DZtqaN-3X_xbrLgZNvPCetxbk-5_UBGIhk7MZ8iPFnerlp2eFDxmbfgMqmM7xRArc-l2P562c563F9QNSyeRi845lwr-0Vy3IfFbQRBgClOSIBWjn02e8ouDBOAyA1UTOJsdhcKbxvhCxdV4Fm14WsFuG3jkoesvQKPMgcD_iZOMltx40V2LjHhoFBeAVCS5to8jQEjwoF0J_h0UW-5lO_dyyPYi_m2cuMNA7BzUxDRXFSKBjTnvkDR3dqdSr0vwjhK_vUdBjZ-NVHdwmR7k7g0jwZASojKOXuKa_droRchrYhI4=w1200-h480-no?authuser=0)
+<iframe src="https://open.spotify.com/embed/playlist/27ZIyucIdU5kIQzQhx3iKy?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 <h3 align="center">Connect with me:</h3>
